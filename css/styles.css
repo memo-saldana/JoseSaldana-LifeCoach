@@ -1,0 +1,21 @@
+
+/* Color pallete 
+		#67cdbe
+		#FFF
+		#555
+*/
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+.jumbotron-bg {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#secondary-nav i,a{
+	color: #555;
+	padding: 10px 5px;
+}
