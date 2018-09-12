@@ -1,0 +1,11 @@
+.navbar-brand img {
+	height: 80px;
+	padding-left: 0;
+	margin-left: 5%;
+	padding-top: 2%;
+	position: absolute;
+}
+
+.featured{
+	padding-top: 40px;
+}
