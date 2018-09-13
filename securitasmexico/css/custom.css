@@ -1,11 +1,20 @@
 .navbar-brand img {
-	height: 80px;
+	height: 80%;
 	padding-left: 0;
 	margin-left: 5%;
-	padding-top: 2%;
+	padding-top: 5px;
 	position: absolute;
 }
 
 .featured{
 	padding-top: 40px;
+}
+
+.slogan {
+	padding-top: 3%;
+	font-size: 48px;
+}
+
+.product {
+	padding-top: 22px;
 }
